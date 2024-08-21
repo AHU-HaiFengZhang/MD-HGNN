@@ -8,5 +8,6 @@ Our code requires Python=3.9.
 We recommend installing the latest version of Pytorch and Pytorch-geometric.
 You also need these additional packages:
 scipy, 
-path, 
+numpy,
+pandas,
 dhg
